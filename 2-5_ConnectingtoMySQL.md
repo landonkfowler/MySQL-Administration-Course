@@ -1,4 +1,4 @@
-# 2-5 Connecting to MySQL — Demo Instructions
+# 2-5 Connecting to MySQL
 
 ---
 
